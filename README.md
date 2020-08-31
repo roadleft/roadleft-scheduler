@@ -15,4 +15,4 @@ For windows users, download exe release version.
 
 
 #  thinks
-
+this is use example for clock, you can inspire for other case.
