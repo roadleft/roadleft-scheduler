@@ -1,7 +1,7 @@
 # roadleft-scheduler
 scheduler for our personal events.
 
-#  Install
+# Install
 
 For windows users, download exe release version.
 
@@ -14,5 +14,5 @@ For windows users, download exe release version.
 ![Interval](docs/screenshots/interval.png)
 
 
-#  thinks
-this is use example for clock, you can inspired for other cases.
+# Thinks
+This is use example for clock, you can inspired for other cases.
