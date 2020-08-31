@@ -9,7 +9,7 @@ For windows users, download exe release version.
 
 ![Admin](docs/screenshots/admin.png)
 
-![cron](docs/screenshots/cron.png)
+![Cron](docs/screenshots/cron.png)
 
 ![Interval](docs/screenshots/interval.png)
 
