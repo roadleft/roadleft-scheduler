@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <style>
+            *{
+                margin:0;
+                padding:0;
+            }
+            body{
+                text-align: center;
+            }
+            div{
+                color:indigo;
+                text-align: center; /*让div内部文字居中*/
+                line-height: 500%;
+                background-color: #fff;
+                border:tomato 1px solid;
+                border-radius: 40px;
+                width: 400px;
+                height: 230px;
+                margin: auto;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                padding: 50px;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <h1>{{ obj.name }}</h1>
+            <h2>{{ time|date:"Y-m-d H:i:s" }}</h2>
+            <audio controls="controls" autoplay="autoplay">
+                <source src="/static/music/001.mp3" type="audio/mpeg" />
+            Your browser does not support the audio element.
+            </audio>
+        </div>
+        <!-- <audio id="audio" src="" style="opacity:50" preload="auto" autoplay controls loop />  -->
+    </body>
+</html>
