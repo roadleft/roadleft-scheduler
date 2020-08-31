@@ -1,7 +1,7 @@
 # roadleft-scheduler
 scheduler for our personal events.
 
-#  install
+#  Install
 
 For windows users, download exe release version.
 
@@ -9,3 +9,7 @@ For windows users, download exe release version.
 
 
 ![Interval](docs/screenshots/interval.png)
+
+
+#  thinks
+
